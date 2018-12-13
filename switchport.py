@@ -1,5 +1,4 @@
-#Script to query the NSX-T Manager and determine how many ports 
-#are being used on a logical switch
+#Script to query the NSX-T Manager and determine how many ports are being used on a logical switch
 #Written By: Andrew Hrycaj
 
 import requests
